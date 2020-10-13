@@ -1,4 +1,4 @@
-class ANDPerceptron:
+class ORPerceptron:
     def __init__(self):
         self.w1 = 0.5
         self.w2 = 0.5
